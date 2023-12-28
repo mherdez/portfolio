@@ -2,7 +2,7 @@
 
 ## Guías
 
-### [Fundamentos de Programación](https://mherdez.github.io/guia-fundamentos-de-programacion/  )
+### [Fundamentos de Programación (en desarrollo)](https://mherdez.github.io/guia-fundamentos-de-programacion/  )
 <center>
 <img :src="$withBase('/img/guia-01.png')" width='400' style="margin: 40px 0;"/>
 </center>
